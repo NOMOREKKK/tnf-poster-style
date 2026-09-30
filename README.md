@@ -37,6 +37,7 @@ Copy-Item -Recurse . "$env:USERPROFILE\.config\mimocode\skills\tnf-poster-style"
 SKILL.md                     # 主流程：主题提取 → 锁风格生成 → 排版 → 自检
 references/
   style-dna.md               # 画风锁死规范：线宽/色板/字级/反模式
+  combinations.md            # 搭配库：配色配方 F1–F7 × 人物 P0–P6 × 母题 M1–M9
   layout-archetypes.md       # 版式原型 A–E
   prompt-templates.md        # Style Lock 提示词模板 + 文案语气规则
 locales/                     # 插件页显示元数据
